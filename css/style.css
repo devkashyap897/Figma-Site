@@ -167,6 +167,7 @@ header {
 .box1 {
     display: flex;
     justify-content: space-evenly;
+    width: 100%;
 }
 
 .form {
